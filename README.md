@@ -1,4 +1,4 @@
-# Web page with coctails API,display available coctails also user able to chech single product and search desire coctail by name.
+# Web page with coctails API,display available coctails also user able to check single product and search desire coctail by name.
 Web page is built in HTML,CSS and Vanilla Java Script fetching data from Coctails API.
 Demo: https://arminbabic.github.io/coctailss-api/
 
